@@ -28,7 +28,6 @@ O projeto foi desenvolvido com finalidade educacional e de portfólio, visando p
 
 - Python
 - Git
-- GitHub
 
 ---
 
